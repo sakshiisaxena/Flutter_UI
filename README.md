@@ -2,4 +2,4 @@
 Creating user-defined designs with Flutter!
 
 # Fashion Store UI
-<img src="https://github.com/sakshiisaxena/Flutter_UI/blob/main/Screenshots/pic1.png?raw=false" width="33%"> <img src="https://github.com/sakshiisaxena/Flutter_UI/blob/main/Screenshots/pic2.png?raw=false" width="33%"> <img src="https://github.com/sakshiisaxena/Flutter_UI/blob/main/Screenshots/pic3.png?raw=false" width="33%">
+<img src="Fashion_Store_UI/Screenshots/pic1.png" width="33%"> <img src="Fashion_Store_UI/Screenshots/pic2.png" width="33%"> <img src="Fashion_Store_UI/Screenshots/pic3.png" width="33%">
